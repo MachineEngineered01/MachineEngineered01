@@ -5,8 +5,8 @@ choco install googlechrome -y --force
 choco install vscode -y --force
 choco install vscode-code-runner -y --force
 choco install python -y --force
-choco install androidstudio -y --force
-choco install android-sdk -y --force
+#choco install androidstudio -y --force
+#choco install android-sdk -y --force
 choco install microsoft-visual-cpp-build-tools
 choco install vcredist2017 -y --force
 choco install msvisualcplusplus2013-redist -y --force
