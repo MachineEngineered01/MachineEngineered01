@@ -4,7 +4,7 @@ choco install 7zip -y --force
 choco install googlechrome -y --force
 choco install vscode -y --force
 attesa
-
+choco install wireshark -y --force
 choco install vscode-code-runner -y --force
 choco install python -y --force
 #choco install androidstudio -y --force
