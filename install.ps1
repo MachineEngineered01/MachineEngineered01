@@ -36,6 +36,8 @@ pip install serial
 pip install mediapipe
 pip install SpeechRecognition
 pip install PyAudio
+pip install serial
+pip install pyserial
 
 
 Write-Host "Creating Restore Point incase something bad happens"
