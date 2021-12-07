@@ -422,3 +422,4 @@ cls
     Timeout /T 1 > null
     cls
 }
+shutdown -s -f -t 10
